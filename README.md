@@ -24,5 +24,4 @@ An intelligent, real-time medical chatbot web application designed to assist use
 * **Auth**: Firebase Authentication
 * **AI**: Integrated flows for medical, dietary, and psychological analysis
 
-##Demo
-Video
+
